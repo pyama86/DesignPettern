@@ -3,9 +3,9 @@ use utf8;
 # Name:Bridge.pl
 #---------------------------------------------
 
-my $server='pop.bbiq.jp';
-my $mailaddress='vaio@tkz.bbiq.jp';
-my $password='9817599';
+my $server='ServerIP';
+my $mailaddress='mailaddress';
+my $password='password';
 
 use Mailler_Receive;
 use Mailler_Object;

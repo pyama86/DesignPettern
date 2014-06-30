@@ -4,9 +4,9 @@ use warnings;
 use lib './';
 use Mailler_Factory;
 
-my $server='210.252.58.109';
-my $mailaddress='vaio@tkz.bbiq.jp';
-my $password='9817599';
+my $server='ServerIP';
+my $mailaddress='mailaddress';
+my $password='mailpassword';
 
 
 my @factorys;
