@@ -1,5 +1,5 @@
 #インターフェースとなる抽象クラス
-cass AbsConverter
+class AbsConverter
   def output_line(arr)
     raise "this method is abstract class method!!"
   end
